@@ -73,58 +73,6 @@
 // })
 // console.log(numDois);
 
-// // Objeto é uma coleção de dados representado por chaves {}
-// // TEM CHAVES É OBJETO
-
-// // variavel nomevariavel = {
-// //  propriedade: valor,
-// //  propriedade: valor
-// //}
-
-// let dados = [
-
-//     {
-//         nome: "Isabel", //string
-//         idade: 19, //number
-//         humano: false, //boolean
-//         amigos: ["Rian", "Eliana"] //array
-//     },
-
-//     {
-//         nome: "Luís", //string
-//         idade: 19, //number
-//         humano: false, //boolean
-//         amigos: ["Rian", "Eliana"] //array
-//     },
-
-//     {
-//         nome: "Rian", //string
-//         idade: 19, //number
-//         humano: false, //boolean
-//         amigos: ["Rian", "Eliana"] //array
-//     }
-
-// ]
-// console.log(dados[2]);
-// console.log(dados[1].idade);
-
-
-// const pessoa = {
-//     nome: "Cosme",
-//     idade: 700
-// }
-// pessoa.humano = false //adicionando nova prop
-// console.log(pessoa);
-
-// // DELETAR UMA PROP
-
-// delete pessoa.idade
-// console.log(pessoa);
-
-// // SUBSTITUIR UMA PROP
-
-// pessoa.nome = "Felipe"
-// console.log(pessoa)
 
 
 
