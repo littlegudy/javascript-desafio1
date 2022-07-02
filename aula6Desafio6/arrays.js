@@ -1,6 +1,6 @@
 // //REVISAO DE ARRAY
 
-// //Array é uma lista ed dados representado pelos []
+// //Array é uma lista e dados representado pelos []
 // //TEM COLCHETE É ARRAY
 
 
